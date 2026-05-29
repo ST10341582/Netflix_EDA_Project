@@ -1,2 +1,2 @@
-# CodeAlpha_Netflix_EDA
-Exploratory Data Analysis (EDA) project on Netflix Movies and TV Shows dataset using Python, Pandas, Matplotlib, and Seaborn for the CodeAlpha Data Analytics Internship.
+# Netflix_EDA
+Exploratory Data Analysis (EDA) project on Netflix Movies and TV Shows dataset using Python, Pandas, Matplotlib, and Seaborn.
